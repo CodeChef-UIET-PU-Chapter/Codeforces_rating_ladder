@@ -1,0 +1,45 @@
+#include<bits/stdc++.h>
+#define ll long long
+#define io ios_base::sync_with_stdio(false);cin.tie(NULL);cout.tie(NULL)
+using namespace std;
+#define N 100000000
+#define limit 10000
+ 
+int main()
+{
+    io;
+    ll num[3][3],temp;
+    ll ans[3][3];
+    vector< pair<ll,ll> > cord;
+    for(ll i=0;i<3;i++)
+    for(ll j=0;j<3;j++)
+    {
+        cin>>temp;
+        num[i][j]=temp%2;
+        if(num[i][j]==1)
+        cord.push_back(make_pair(i,j));
+    }
+    for(ll i=0;i<3;i++)
+    {
+        for(ll j=0;j<3;j++)
+        ans[i][j]=1;
+    } 
+    for(ll i=0;i<cord.size();i++)
+    {
+        ans[cord[i].first][cord[i].second]=abs(ans[cord[i].first][cord[i].second]-1);
+        if(cord[i].first-1!=-1)
+        ans[cord[i].first-1][cord[i].second]=abs(ans[cord[i].first-1][cord[i].second]-1);
+        if(cord[i].first+1!=3)
+        ans[cord[i].first+1][cord[i].second]=abs(ans[cord[i].first+1][cord[i].second]-1);
+        if(cord[i].second-1!=-1)
+        ans[cord[i].first][cord[i].second-1]=abs(ans[cord[i].first][cord[i].second-1]-1);
+        if(cord[i].second+1!=3)
+        ans[cord[i].first][cord[i].second+1]=abs(ans[cord[i].first][cord[i].second+1]-1);
+    }
+    for(ll i=0;i<3;i++)
+    {
+        for(ll j=0;j<3;j++)
+        cout<<ans[i][j];
+        cout<<"\n";
+    }    
+}

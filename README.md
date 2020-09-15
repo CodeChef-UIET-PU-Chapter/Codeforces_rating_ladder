@@ -17,3 +17,5 @@
 7.<a href="http://codeforces.com/problemset/problem/271/A">Beautiful Year</a>
 
 8.<a href="http://codeforces.com/problemset/problem/275/A">Lights Out</a>
+
+9.<a href="http://codeforces.com/problemset/problem/59/A">Word</a>

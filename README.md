@@ -19,3 +19,5 @@
 8.<a href="http://codeforces.com/problemset/problem/275/A">Lights Out</a>
 
 9.<a href="http://codeforces.com/problemset/problem/59/A">Word</a>
+
+10.<a href="http://codeforces.com/problemset/problem/281/A">Word Capitalization</a>

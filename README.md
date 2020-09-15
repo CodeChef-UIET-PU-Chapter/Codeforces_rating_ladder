@@ -9,3 +9,5 @@
 3.<a href="https://codeforces.com/problemset/problem/266/B">Queue at the School</a>
 
 4.<a href="https://codeforces.com/problemset/problem/327/A">Flipping Game</a>
+
+5.<a href="http://codeforces.com/problemset/problem/237/A">Free Cash</a>

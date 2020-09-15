@@ -13,3 +13,5 @@
 5.<a href="http://codeforces.com/problemset/problem/237/A">Free Cash</a>
 
 6.<a href="http://codeforces.com/problemset/problem/32/B">Borze</a>
+
+7.<a href="http://codeforces.com/problemset/problem/271/A">Beautiful Year</a>

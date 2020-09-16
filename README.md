@@ -34,7 +34,7 @@
 
 16.<a href="http://codeforces.com/problemset/problem/289/B">Polo the Penguin and Matrix</a>
 
-17.<a href="http://codeforces.com/problemset/problem/144/A>Arrival of the General</a>
+17.<a href="http://codeforces.com/problemset/problem/144/A">Arrival of the General</a>
   
 18.<a href="http://codeforces.com/problemset/problem/200/B">Drinks</a>
   

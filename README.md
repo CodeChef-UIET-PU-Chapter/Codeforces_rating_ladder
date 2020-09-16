@@ -33,3 +33,17 @@
 15.<a href="http://codeforces.com/problemset/problem/233/A">Perfect Permutation</a>
 
 16.<a href="http://codeforces.com/problemset/problem/289/B">Polo the Penguin and Matrix</a>
+
+17.<a href="http://codeforces.com/problemset/problem/144/A>Arrival of the General</a>
+  
+18.<a href="http://codeforces.com/problemset/problem/200/B">Drinks</a>
+  
+19.<a href="http://codeforces.com/problemset/problem/148/A">Insomnia cure</a>
+  
+20.<a href="http://codeforces.com/problemset/problem/248/A">Cupboards</a>
+  
+21.<a href="http://codeforces.com/problemset/problem/155/A">I_love_%username%</a>
+  
+22.<a href="http://codeforces.com/problemset/problem/116/A">Tram</a>
+  
+23.<a href="http://codeforces.com/problemset/problem/339/A">Helpful Maths</a>

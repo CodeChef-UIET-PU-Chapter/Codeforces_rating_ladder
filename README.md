@@ -31,3 +31,5 @@
 14.<a href="http://codeforces.com/problemset/problem/61/A">Ultra-Fast Mathematician</a>
 
 15.<a href="http://codeforces.com/problemset/problem/233/A">Perfect Permutation</a>
+
+16.<a href="http://codeforces.com/problemset/problem/289/B">Polo the Penguin and Matrix</a>

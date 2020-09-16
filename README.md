@@ -21,3 +21,13 @@
 9.<a href="http://codeforces.com/problemset/problem/59/A">Word</a>
 
 10.<a href="http://codeforces.com/problemset/problem/281/A">Word Capitalization</a>
+
+11.<a href="http://codeforces.com/problemset/problem/110/A">Nearly Lucky Number</a>
+
+12.<a href="http://codeforces.com/problemset/problem/266/A">Stones on the Table</a>
+
+13.<a href="http://codeforces.com/problemset/problem/80/A">Panoramix's Prediction</a>
+
+14.<a href="http://codeforces.com/problemset/problem/61/A">Ultra-Fast Mathematician</a>
+
+15.<a href="http://codeforces.com/problemset/problem/233/A">Perfect Permutation</a>

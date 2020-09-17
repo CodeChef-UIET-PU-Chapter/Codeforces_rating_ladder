@@ -47,3 +47,5 @@
 22.<a href="http://codeforces.com/problemset/problem/116/A">Tram</a>
   
 23.<a href="http://codeforces.com/problemset/problem/339/A">Helpful Maths</a>
+
+24.<a href="https://codeforces.com/contest/450/problem/B">Jzzhu and Sequences</a>

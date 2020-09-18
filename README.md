@@ -61,3 +61,5 @@
 29.<a href="https://codeforces.com/problemset/problem/141/A">Amusing Joke</a>
 
 30.<a href="https://codeforces.com/problemset/problem/151/A">Soft Drinking</a>
+
+31.<a href="https://codeforces.com/problemset/problem/451/B">Sort the Array</a>

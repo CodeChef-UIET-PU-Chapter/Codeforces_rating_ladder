@@ -67,3 +67,13 @@
 32.<a href="https://codeforces.com/problemset/problem/315/A">Sereja and Bottles</a>
 
 33.<a href="https://codeforces.com/problemset/problem/260/A">Adding Digits</a>
+
+34.<a href="https://codeforces.com/problemset/problem/133/A">HQ9+</a>
+
+35.<a href="https://codeforces.com/problemset/problem/112/A">Petya and Strings</a>
+
+36.<a href="https://codeforces.com/problemset/problem/231/A">Team</a>
+
+37.<a href="https://codeforces.com/problemset/problem/282/A">Bit++</a>
+
+38.<a href="https://codeforces.com/problemset/problem/227/B">Effective Approach</a>

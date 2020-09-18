@@ -63,3 +63,5 @@
 30.<a href="https://codeforces.com/problemset/problem/151/A">Soft Drinking</a>
 
 31.<a href="https://codeforces.com/problemset/problem/451/B">Sort the Array</a>
+
+32.<a href="https://codeforces.com/problemset/problem/315/A">Sereja and Bottles</a>

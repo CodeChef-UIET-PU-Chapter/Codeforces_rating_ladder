@@ -65,3 +65,5 @@
 31.<a href="https://codeforces.com/problemset/problem/451/B">Sort the Array</a>
 
 32.<a href="https://codeforces.com/problemset/problem/315/A">Sereja and Bottles</a>
+
+33.<a href="https://codeforces.com/problemset/problem/260/A">Adding Digits</a>

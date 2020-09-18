@@ -51,3 +51,13 @@
 24.<a href="https://codeforces.com/contest/450/problem/B">Jzzhu and Sequences</a>
 
 25.<a href="https://codeforces.com/problemset/problem/462/B">Appleman and Card Game</a>
+
+26.<a href="https://codeforces.com/problemset/problem/228/A">Is your horseshoe on the other hoof?</a>
+
+27.<a href="https://codeforces.com/problemset/problem/71/A">Way Too Long Words</a>
+
+28.<a href="https://codeforces.com/problemset/problem/236/A">Boy or Girl</a>
+
+29.<a href="https://codeforces.com/problemset/problem/141/A">Amusing Joke</a>
+
+30.<a href="https://codeforces.com/problemset/problem/151/A">Soft Drinking</a>

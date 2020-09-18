@@ -49,3 +49,5 @@
 23.<a href="http://codeforces.com/problemset/problem/339/A">Helpful Maths</a>
 
 24.<a href="https://codeforces.com/contest/450/problem/B">Jzzhu and Sequences</a>
+
+25.<a href-"https://codeforces.com/problemset/problem/462/B">Appleman and Card Game</a>

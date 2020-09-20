@@ -96,4 +96,4 @@
 
 47.<a href="https://codeforces.com/problemset/problem/199/A">Hexadecimal's theorem</a>
 
-48.<a href=https://codeforces.com/problemset/problem/352/A">Jeff and Digits</a>
+48.<a href="https://codeforces.com/problemset/problem/352/A">Jeff and Digits</a>

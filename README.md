@@ -1,5 +1,7 @@
 # Codeforces_rating_ladder
 
+<img src="https://codeforces.com/predownloaded/ce/bb/cebb0750c8fc9da45a299daddd9ff9f17e77bffe.jpg" height=300>
+
 ## Codeforces rating<1300
 
 1.<a href="https://codeforces.com/problemset/problem/69/A">Young Physicist</a>

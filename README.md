@@ -77,3 +77,23 @@
 37.<a href="https://codeforces.com/problemset/problem/282/A">Bit++</a>
 
 38.<a href="https://codeforces.com/problemset/problem/227/B">Effective Approach</a>
+
+39.<a href="https://codeforces.com/problemset/problem/272/A">Dima and Friends</a>
+
+40.<a href="https://codeforces.com/problemset/problem/450/A">Jzzhu and Children</a>
+
+41.<a href="https://codeforces.com/problemset/problem/165/A">Supercentral Point</a>
+
+42.<a href="https://codeforces.com/problemset/problem/139/A">Petr and Book</a>
+
+43.<a href="https://codeforces.com/problemset/problem/224/A">Parallelepiped</a>
+
+44.<a href="https://codeforces.com/problemset/problem/34/A">Reconnaissance 2</a>
+
+45.<a href="https://codeforces.com/problemset/problem/318/A">Even Odds</a>
+
+46.<a href="https://codeforces.com/problemset/problem/205/A">Little Elephant and Rozdil</a>
+
+47.<a href="https://codeforces.com/problemset/problem/199/A">Hexadecimal's theorem</a>
+
+48.<a href=https://codeforces.com/problemset/problem/352/A">Jeff and Digits</a>

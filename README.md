@@ -98,6 +98,6 @@
 
 48.<a href="https://codeforces.com/problemset/problem/352/A">Jeff and Digits</a>
 
-49.<a href"https://codeforces.com/problemset/problem/339/B">Xenia and Ringroad</a>
+49.<a href="https://codeforces.com/problemset/problem/339/B">Xenia and Ringroad</a>
 
 50.<a href="https://codeforces.com/problemset/problem/320/A">Magic Numbers</a>

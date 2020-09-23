@@ -4,102 +4,55 @@
 
 ## Codeforces rating<1300
 
-1.<a href="https://codeforces.com/problemset/problem/69/A">Young Physicist</a>
-
-2.<a href="https://codeforces.com/problemset/problem/263/A">Beautiful Matrix</a>
-
-3.<a href="https://codeforces.com/problemset/problem/266/B">Queue at the School</a>
-
-4.<a href="https://codeforces.com/problemset/problem/327/A">Flipping Game</a>
-
-5.<a href="http://codeforces.com/problemset/problem/237/A">Free Cash</a>
-
-6.<a href="http://codeforces.com/problemset/problem/32/B">Borze</a>
-
-7.<a href="http://codeforces.com/problemset/problem/271/A">Beautiful Year</a>
-
-8.<a href="http://codeforces.com/problemset/problem/275/A">Lights Out</a>
-
-9.<a href="http://codeforces.com/problemset/problem/59/A">Word</a>
-
-10.<a href="http://codeforces.com/problemset/problem/281/A">Word Capitalization</a>
-
-11.<a href="http://codeforces.com/problemset/problem/110/A">Nearly Lucky Number</a>
-
-12.<a href="http://codeforces.com/problemset/problem/266/A">Stones on the Table</a>
-
-13.<a href="http://codeforces.com/problemset/problem/80/A">Panoramix's Prediction</a>
-
-14.<a href="http://codeforces.com/problemset/problem/61/A">Ultra-Fast Mathematician</a>
-
-15.<a href="http://codeforces.com/problemset/problem/233/A">Perfect Permutation</a>
-
-16.<a href="http://codeforces.com/problemset/problem/289/B">Polo the Penguin and Matrix</a>
-
-17.<a href="http://codeforces.com/problemset/problem/144/A">Arrival of the General</a>
-  
-18.<a href="http://codeforces.com/problemset/problem/200/B">Drinks</a>
-  
-19.<a href="http://codeforces.com/problemset/problem/148/A">Insomnia cure</a>
-  
-20.<a href="http://codeforces.com/problemset/problem/248/A">Cupboards</a>
-  
-21.<a href="http://codeforces.com/problemset/problem/155/A">I_love_%username%</a>
-  
-22.<a href="http://codeforces.com/problemset/problem/116/A">Tram</a>
-  
-23.<a href="http://codeforces.com/problemset/problem/339/A">Helpful Maths</a>
-
-24.<a href="https://codeforces.com/contest/450/problem/B">Jzzhu and Sequences</a>
-
-25.<a href="https://codeforces.com/problemset/problem/462/B">Appleman and Card Game</a>
-
-26.<a href="https://codeforces.com/problemset/problem/228/A">Is your horseshoe on the other hoof?</a>
-
-27.<a href="https://codeforces.com/problemset/problem/71/A">Way Too Long Words</a>
-
-28.<a href="https://codeforces.com/problemset/problem/236/A">Boy or Girl</a>
-
-29.<a href="https://codeforces.com/problemset/problem/141/A">Amusing Joke</a>
-
-30.<a href="https://codeforces.com/problemset/problem/151/A">Soft Drinking</a>
-
-31.<a href="https://codeforces.com/problemset/problem/451/B">Sort the Array</a>
-
-32.<a href="https://codeforces.com/problemset/problem/315/A">Sereja and Bottles</a>
-
-33.<a href="https://codeforces.com/problemset/problem/260/A">Adding Digits</a>
-
-34.<a href="https://codeforces.com/problemset/problem/133/A">HQ9+</a>
-
-35.<a href="https://codeforces.com/problemset/problem/112/A">Petya and Strings</a>
-
-36.<a href="https://codeforces.com/problemset/problem/231/A">Team</a>
-
-37.<a href="https://codeforces.com/problemset/problem/282/A">Bit++</a>
-
-38.<a href="https://codeforces.com/problemset/problem/227/B">Effective Approach</a>
-
-39.<a href="https://codeforces.com/problemset/problem/272/A">Dima and Friends</a>
-
-40.<a href="https://codeforces.com/problemset/problem/450/A">Jzzhu and Children</a>
-
-41.<a href="https://codeforces.com/problemset/problem/165/A">Supercentral Point</a>
-
-42.<a href="https://codeforces.com/problemset/problem/139/A">Petr and Book</a>
-
-43.<a href="https://codeforces.com/problemset/problem/224/A">Parallelepiped</a>
-
-44.<a href="https://codeforces.com/problemset/problem/34/A">Reconnaissance 2</a>
-
-45.<a href="https://codeforces.com/problemset/problem/318/A">Even Odds</a>
-
-46.<a href="https://codeforces.com/problemset/problem/205/A">Little Elephant and Rozdil</a>
-
-47.<a href="https://codeforces.com/problemset/problem/199/A">Hexadecimal's theorem</a>
-
-48.<a href="https://codeforces.com/problemset/problem/352/A">Jeff and Digits</a>
-
-49.<a href="https://codeforces.com/problemset/problem/339/B">Xenia and Ringroad</a>
-
-50.<a href="https://codeforces.com/problemset/problem/320/A">Magic Numbers</a>
+| Index | Problem |   
+| --- | --- | 
+| 1 | [Young Physicist](https://codeforces.com/problemset/problem/69/A) |  
+| 2 | [Beautiful Matrix](https://codeforces.com/problemset/problem/263/A) |   
+| 3 | [Queue at the School](https://codeforces.com/problemset/problem/266/B) |
+| 4 | [Flipping Game](https://codeforces.com/problemset/problem/327/A) |
+| 5 | [Free Cash](http://codeforces.com/problemset/problem/237/A) |
+| 6 | [Borze](http://codeforces.com/problemset/problem/32/B) |
+| 7 | [Beautiful Year](http://codeforces.com/problemset/problem/271/A) |
+| 8 | [Lights Out](http://codeforces.com/problemset/problem/275/A) |
+| 9 | [Word](http://codeforces.com/problemset/problem/59/A) |
+| 10 | [Word Capitalization](http://codeforces.com/problemset/problem/281/A) |
+| 11 | [Nearly Lucky Number](http://codeforces.com/problemset/problem/110/A) |
+| 12 | [Stones on the Table](http://codeforces.com/problemset/problem/266/A) |
+| 13 | [Panoramix's Prediction](http://codeforces.com/problemset/problem/80/A) |
+| 14 | [Ultra-Fast Mathematician](http://codeforces.com/problemset/problem/61/A) |
+| 15 | [Perfect Permutation](http://codeforces.com/problemset/problem/233/A) |
+| 16 | [Polo the Penguin and Matrix](http://codeforces.com/problemset/problem/289/B) |
+| 17 | [Arrival of the General](http://codeforces.com/problemset/problem/144/A) |
+| 18 | [Drinks](http://codeforces.com/problemset/problem/200/B) |
+| 19 | [Insomnia cure](http://codeforces.com/problemset/problem/148/A) |
+| 20 | [Cupboards](http://codeforces.com/problemset/problem/248/A) |
+| 21 | [I_love_%username%](http://codeforces.com/problemset/problem/155/A) |
+| 22 | [Tram](http://codeforces.com/problemset/problem/116/A) |
+| 23 | [Helpful Maths](http://codeforces.com/problemset/problem/339/A) |
+| 24 | [Jzzhu and Sequences](https://codeforces.com/contest/450/problem/B) |
+| 25 | [Appleman and Card Game](https://codeforces.com/problemset/problem/462/B) |
+| 26 | [Is your horseshoe on the other hoof?](https://codeforces.com/problemset/problem/228/A) |
+| 27 | [Way Too Long Words](https://codeforces.com/problemset/problem/71/A) |
+| 28 | [Boy or Girl](https://codeforces.com/problemset/problem/236/A) |
+| 29 | [Amusing Joke](https://codeforces.com/problemset/problem/141/A) |
+| 30 | [Soft Drinking](https://codeforces.com/problemset/problem/151/A) |
+| 31 | [Sort the Array](https://codeforces.com/problemset/problem/451/B) |
+| 32 | [Sereja and Bottles](https://codeforces.com/problemset/problem/315/A) |
+| 33 | [Adding Digits](https://codeforces.com/problemset/problem/260/A) |
+| 34 | [HQ9+](https://codeforces.com/problemset/problem/133/A) |
+| 35 | [Petya and Strings](https://codeforces.com/problemset/problem/112/A) |
+| 36 | [Team](https://codeforces.com/problemset/problem/231/A) |
+| 37 | [Bit++](https://codeforces.com/problemset/problem/282/A) |
+| 38 | [Effective Approach](https://codeforces.com/problemset/problem/227/B) |
+| 39 | [Dima and Friends](https://codeforces.com/problemset/problem/272/A) |
+| 40 | [Jzzhu and Children](https://codeforces.com/problemset/problem/450/A) |
+| 41 | [Supercentral Point](https://codeforces.com/problemset/problem/165/A) |
+| 42 | [Petr and Book](https://codeforces.com/problemset/problem/139/A) |
+| 43 | [Parallelepiped](https://codeforces.com/problemset/problem/224/A) |
+| 44 | [Reconnaissance 2](https://codeforces.com/problemset/problem/34/A) |
+| 45 | [Even Odds](https://codeforces.com/problemset/problem/318/A) |
+| 46 | [Little Elephant and Rozdil](https://codeforces.com/problemset/problem/205/A) |
+| 47 | [Hexadecimal's theorem](https://codeforces.com/problemset/problem/199/A) |
+| 48 | [Jeff and Digits](https://codeforces.com/problemset/problem/352/A) |
+| 49 | [Xenia and Ringroad](https://codeforces.com/problemset/problem/339/B) |
+| 50 | [Magic Numbers](https://codeforces.com/problemset/problem/320/A) |

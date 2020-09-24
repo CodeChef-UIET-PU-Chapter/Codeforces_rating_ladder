@@ -56,3 +56,4 @@
 | 48 | [Jeff and Digits](https://codeforces.com/problemset/problem/352/A) |
 | 49 | [Xenia and Ringroad](https://codeforces.com/problemset/problem/339/B) |
 | 50 | [Magic Numbers](https://codeforces.com/problemset/problem/320/A) |
+| 51 | [Cubes Sorting](https://codeforces.com/contest/1420/problem/A) |

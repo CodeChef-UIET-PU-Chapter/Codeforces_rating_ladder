@@ -71,3 +71,4 @@
 | 1 | [Blackjack](https://codeforces.com/problemset/problem/104/A) |
 | 2 | [Cookies](https://codeforces.com/problemset/problem/129/A) |
 | 3 | [Candy Bags](https://codeforces.com/problemset/problem/334/A) |
+| 4 | [Vasily the Bear and Triangle](https://codeforces.com/problemset/problem/336/A) |

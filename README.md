@@ -57,3 +57,10 @@
 | 49 | [Xenia and Ringroad](https://codeforces.com/problemset/problem/339/B) |
 | 50 | [Magic Numbers](https://codeforces.com/problemset/problem/320/A) |
 | 51 | [Cubes Sorting](https://codeforces.com/contest/1420/problem/A) |
+| 52 | [Translation](https://codeforces.com/problemset/problem/41/A) |
+| 53 | [Football](https://codeforces.com/problemset/problem/43/A) |
+| 54 | [Bicycle Chain](https://codeforces.com/problemset/problem/215/A) |
+| 55 | [Sale](https://codeforces.com/problemset/problem/34/B) |
+| 56 | [System of Equations](https://codeforces.com/problemset/problem/214/A) |
+| 57 | [Business trip](https://codeforces.com/problemset/problem/149/A) |
+| 58 | [Dubstep](https://codeforces.com/problemset/problem/208/A) |

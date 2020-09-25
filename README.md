@@ -4,10 +4,10 @@
 
 ## Codeforces rating<1300
 
-| Index | Problem |   
-| --- | --- | 
-| 1 | [Young Physicist](https://codeforces.com/problemset/problem/69/A) |  
-| 2 | [Beautiful Matrix](https://codeforces.com/problemset/problem/263/A) |   
+| Index | Problem | Index | Problem |
+| --- | --- | --- |--- |
+| 1 | [Young Physicist](https://codeforces.com/problemset/problem/69/A) | 59 |[k-String](https://codeforces.com/problemset/problem/219/A) |
+| 2 | [Beautiful Matrix](https://codeforces.com/problemset/problem/263/A) | 60 |[The number of positions](https://codeforces.com/problemset/problem/124/A) |  
 | 3 | [Queue at the School](https://codeforces.com/problemset/problem/266/B) |
 | 4 | [Flipping Game](https://codeforces.com/problemset/problem/327/A) |
 | 5 | [Free Cash](http://codeforces.com/problemset/problem/237/A) |

@@ -64,3 +64,8 @@
 | 56 | [System of Equations](https://codeforces.com/problemset/problem/214/A) |
 | 57 | [Business trip](https://codeforces.com/problemset/problem/149/A) |
 | 58 | [Dubstep](https://codeforces.com/problemset/problem/208/A) |
+
+## Codeforces rating >=1300&&<=1399
+| Index | Problem |
+| --- | --- |
+| 1 | [Blackjack](https://codeforces.com/problemset/problem/104/A) |

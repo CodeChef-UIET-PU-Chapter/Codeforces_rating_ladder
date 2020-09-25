@@ -11,7 +11,7 @@ template <typename T1, typename T2>
 void print2(T1 x,T2 y){cout<<x<<" "<<y<<"\n";}
 template <typename T1, typename T2,typename T3>
 void print3(T1 x, T2 y,T3 z){cout<<x<<" "<<y<<" "<<z<<"\n";}
-
+ 
 int main()
 {
     io;
@@ -20,25 +20,22 @@ int main()
     //test_case=1;
     while(test_case--)
     {
-        int n;
+        ll n;
         cin>>n;
-        int arr[n];
-        for(int i=0;i<n;i++) cin>>arr[i];
-        int limit= (n*(n-1)/2)-1;
-        int swap=0;
-        for(int i=n;i>=0;i--)
-        {
-            for(int j=1;j<i;j++)
-            if(arr[j]<arr[j-1])
-            {
-                int temp=arr[j];
-                arr[j]=arr[j-1];
-                arr[j-1]=temp;
-                swap++;
-            }
+        vector<ll> arr(n);
+        for(int i=0;i<n;i++) {
+            cin>>arr[i];
         }
-        //cout<<"swap: "<<swap<<"\n";
-        if(swap<=limit)
+        bool flag=false;
+        for(int i=1;i<n;i++)
+        {
+            if(arr[i]>=arr[i-1])
+            {
+                flag=true;
+                break;
+            }
+        }        
+        if(flag)
         print("YES");
         else
         print("NO");

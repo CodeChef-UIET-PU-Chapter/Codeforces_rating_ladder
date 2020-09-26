@@ -75,3 +75,4 @@
 | 5 | [Lunch Rush](https://codeforces.com/problemset/problem/276/A) |
 | 6 | [Cakeminator](https://codeforces.com/problemset/problem/330/A) |
 | 7 | [Levko and Table](https://codeforces.com/problemset/problem/361/A) |
+| 8 | [Chips](https://codeforces.com/problemset/problem/92/A) |

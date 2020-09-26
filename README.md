@@ -74,3 +74,4 @@
 | 4 | [Vasily the Bear and Triangle](https://codeforces.com/problemset/problem/336/A) |
 | 5 | [Lunch Rush](https://codeforces.com/problemset/problem/276/A) |
 | 6 | [Cakeminator](https://codeforces.com/problemset/problem/330/A) |
+| 7 | [Levko and Table](https://codeforces.com/problemset/problem/361/A) |

@@ -17,7 +17,7 @@
 | 9 | [Word](http://codeforces.com/problemset/problem/59/A) |67 | [Chat room](https://codeforces.com/problemset/problem/58/A) |
 | 10 | [Word Capitalization](http://codeforces.com/problemset/problem/281/A) |68 | [Airport](https://codeforces.com/problemset/problem/218/B) |
 | 11 | [Nearly Lucky Number](http://codeforces.com/problemset/problem/110/A) |69 | [DZY Loves Chessboard](https://codeforces.com/problemset/problem/445/A) |
-| 12 | [Stones on the Table](http://codeforces.com/problemset/problem/266/A) |
+| 12 | [Stones on the Table](http://codeforces.com/problemset/problem/266/A) |70| [Pashmak and Flowers](https://codeforces.com/problemset/problem/459/B) |
 | 13 | [Panoramix's Prediction](http://codeforces.com/problemset/problem/80/A) |
 | 14 | [Ultra-Fast Mathematician](http://codeforces.com/problemset/problem/61/A) |
 | 15 | [Perfect Permutation](http://codeforces.com/problemset/problem/233/A) |

@@ -18,15 +18,15 @@
 | 10 | [Word Capitalization](http://codeforces.com/problemset/problem/281/A) |68 | [Airport](https://codeforces.com/problemset/problem/218/B) |
 | 11 | [Nearly Lucky Number](http://codeforces.com/problemset/problem/110/A) |69 | [DZY Loves Chessboard](https://codeforces.com/problemset/problem/445/A) |
 | 12 | [Stones on the Table](http://codeforces.com/problemset/problem/266/A) |70| [Pashmak and Flowers](https://codeforces.com/problemset/problem/459/B) |
-| 13 | [Panoramix's Prediction](http://codeforces.com/problemset/problem/80/A) |
-| 14 | [Ultra-Fast Mathematician](http://codeforces.com/problemset/problem/61/A) |
-| 15 | [Perfect Permutation](http://codeforces.com/problemset/problem/233/A) |
-| 16 | [Polo the Penguin and Matrix](http://codeforces.com/problemset/problem/289/B) |
-| 17 | [Arrival of the General](http://codeforces.com/problemset/problem/144/A) |
-| 18 | [Drinks](http://codeforces.com/problemset/problem/200/B) |
-| 19 | [Insomnia cure](http://codeforces.com/problemset/problem/148/A) |
-| 20 | [Cupboards](http://codeforces.com/problemset/problem/248/A) |
-| 21 | [I_love_%username%](http://codeforces.com/problemset/problem/155/A) |
+| 13 | [Panoramix's Prediction](http://codeforces.com/problemset/problem/80/A) |71| [Jeff and Periods](https://codeforces.com/problemset/problem/352/B) |
+| 14 | [Ultra-Fast Mathematician](http://codeforces.com/problemset/problem/61/A) |72| [Little Girl and Game](https://codeforces.com/problemset/problem/276/B) |
+| 15 | [Perfect Permutation](http://codeforces.com/problemset/problem/233/A) |73| [Sail](https://codeforces.com/problemset/problem/298/B) |
+| 16 | [Polo the Penguin and Matrix](http://codeforces.com/problemset/problem/289/B) |74| [Shower Line](https://codeforces.com/problemset/problem/431/B) |
+| 17 | [Arrival of the General](http://codeforces.com/problemset/problem/144/A) |75| [Shooshuns and Sequence](https://codeforces.com/problemset/problem/222/A) |
+| 18 | [Drinks](http://codeforces.com/problemset/problem/200/B) |76| [Xenia and Divisors](https://codeforces.com/problemset/problem/342/A) |
+| 19 | [Insomnia cure](http://codeforces.com/problemset/problem/148/A) |77| [Letter](https://codeforces.com/problemset/problem/43/B) |
+| 20 | [Cupboards](http://codeforces.com/problemset/problem/248/A) |79| [Kitahara Haruki's Gift](https://codeforces.com/problemset/problem/433/A) |
+| 21 | [I_love_%username%](http://codeforces.com/problemset/problem/155/A) |80| [Comparing Strings](https://codeforces.com/problemset/problem/186/A) |
 | 22 | [Tram](http://codeforces.com/problemset/problem/116/A) |
 | 23 | [Helpful Maths](http://codeforces.com/problemset/problem/339/A) |
 | 24 | [Jzzhu and Sequences](https://codeforces.com/contest/450/problem/B) |

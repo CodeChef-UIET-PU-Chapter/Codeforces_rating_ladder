@@ -25,8 +25,8 @@
 | 17 | [Arrival of the General](http://codeforces.com/problemset/problem/144/A) |75| [Shooshuns and Sequence](https://codeforces.com/problemset/problem/222/A) |
 | 18 | [Drinks](http://codeforces.com/problemset/problem/200/B) |76| [Xenia and Divisors](https://codeforces.com/problemset/problem/342/A) |
 | 19 | [Insomnia cure](http://codeforces.com/problemset/problem/148/A) |77| [Letter](https://codeforces.com/problemset/problem/43/B) |
-| 20 | [Cupboards](http://codeforces.com/problemset/problem/248/A) |79| [Kitahara Haruki's Gift](https://codeforces.com/problemset/problem/433/A) |
-| 21 | [I_love_%username%](http://codeforces.com/problemset/problem/155/A) |80| [Comparing Strings](https://codeforces.com/problemset/problem/186/A) |
+| 20 | [Cupboards](http://codeforces.com/problemset/problem/248/A) |78| [Kitahara Haruki's Gift](https://codeforces.com/problemset/problem/433/A) |
+| 21 | [I_love_%username%](http://codeforces.com/problemset/problem/155/A) |79| [Comparing Strings](https://codeforces.com/problemset/problem/186/A) |
 | 22 | [Tram](http://codeforces.com/problemset/problem/116/A) |
 | 23 | [Helpful Maths](http://codeforces.com/problemset/problem/339/A) |
 | 24 | [Jzzhu and Sequences](https://codeforces.com/contest/450/problem/B) |

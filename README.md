@@ -8,15 +8,15 @@
 | --- | --- | --- |--- |
 | 1 | [Young Physicist](https://codeforces.com/problemset/problem/69/A) | 59 |[k-String](https://codeforces.com/problemset/problem/219/A) |
 | 2 | [Beautiful Matrix](https://codeforces.com/problemset/problem/263/A) | 60 |[The number of positions](https://codeforces.com/problemset/problem/124/A) |  
-| 3 | [Queue at the School](https://codeforces.com/problemset/problem/266/B) |
-| 4 | [Flipping Game](https://codeforces.com/problemset/problem/327/A) |
-| 5 | [Free Cash](http://codeforces.com/problemset/problem/237/A) |
-| 6 | [Borze](http://codeforces.com/problemset/problem/32/B) |
-| 7 | [Beautiful Year](http://codeforces.com/problemset/problem/271/A) |
-| 8 | [Lights Out](http://codeforces.com/problemset/problem/275/A) |
-| 9 | [Word](http://codeforces.com/problemset/problem/59/A) |
-| 10 | [Word Capitalization](http://codeforces.com/problemset/problem/281/A) |
-| 11 | [Nearly Lucky Number](http://codeforces.com/problemset/problem/110/A) |
+| 3 | [Queue at the School](https://codeforces.com/problemset/problem/266/B) | 61 | [Football](https://codeforces.com/problemset/problem/96/A) |
+| 4 | [Flipping Game](https://codeforces.com/problemset/problem/327/A) |62 | [String Task](https://codeforces.com/problemset/problem/118/A) |
+| 5 | [Free Cash](http://codeforces.com/problemset/problem/237/A) |63 | [Little Elephant and Function](https://codeforces.com/problemset/problem/221/A) |
+| 6 | [Borze](http://codeforces.com/problemset/problem/32/B) |64 | [Present from Lena](https://codeforces.com/problemset/problem/118/B) |
+| 7 | [Beautiful Year](http://codeforces.com/problemset/problem/271/A) |65 | [Dragons](https://codeforces.com/problemset/problem/230/A) |
+| 8 | [Lights Out](http://codeforces.com/problemset/problem/275/A) |66 | [Puzzles](https://codeforces.com/problemset/problem/337/A) |
+| 9 | [Word](http://codeforces.com/problemset/problem/59/A) |67 | [Chat room](https://codeforces.com/problemset/problem/58/A) |
+| 10 | [Word Capitalization](http://codeforces.com/problemset/problem/281/A) |68 | [Airport](https://codeforces.com/problemset/problem/218/B) |
+| 11 | [Nearly Lucky Number](http://codeforces.com/problemset/problem/110/A) |69 | [DZY Loves Chessboard](https://codeforces.com/problemset/problem/445/A) |
 | 12 | [Stones on the Table](http://codeforces.com/problemset/problem/266/A) |
 | 13 | [Panoramix's Prediction](http://codeforces.com/problemset/problem/80/A) |
 | 14 | [Ultra-Fast Mathematician](http://codeforces.com/problemset/problem/61/A) |

@@ -77,3 +77,4 @@
 | 7 | [Levko and Table](https://codeforces.com/problemset/problem/361/A) |
 | 8 | [Chips](https://codeforces.com/problemset/problem/92/A) |
 | 9 | [Slightly Decreasing Permutations](https://codeforces.com/problemset/problem/285/A)|
+| 10 |[Fancy Fence](https://codeforces.com/problemset/problem/270/A)|

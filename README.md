@@ -79,3 +79,4 @@
 | 9 | [Slightly Decreasing Permutations](https://codeforces.com/problemset/problem/285/A)|
 | 10 |[Fancy Fence](https://codeforces.com/problemset/problem/270/A)|
 | 11 |[Wizards and Demonstration](https://codeforces.com/problemset/problem/168/A) |
+| 12 |[Life Without Zeros](https://codeforces.com/problemset/problem/75/A) |

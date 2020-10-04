@@ -81,3 +81,4 @@
 | 11 |[Wizards and Demonstration](https://codeforces.com/problemset/problem/168/A) |
 | 12 |[Life Without Zeros](https://codeforces.com/problemset/problem/75/A) |
 | 13 |[Array](https://codeforces.com/problemset/problem/300/A) |
+| 14 |[Sum of Digits](https://codeforces.com/problemset/problem/102/B) |

@@ -83,3 +83,4 @@
 | 13 |[Array](https://codeforces.com/problemset/problem/300/A) |
 | 14 |[Sum of Digits](https://codeforces.com/problemset/problem/102/B) |
 | 15 |[Next Test](https://codeforces.com/problemset/problem/27/A) |
+| 16 |[Laptops](https://codeforces.com/problemset/problem/456/A) |

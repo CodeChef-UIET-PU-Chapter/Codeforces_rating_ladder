@@ -27,16 +27,16 @@
 | 19 | [Insomnia cure](http://codeforces.com/problemset/problem/148/A) |77| [Letter](https://codeforces.com/problemset/problem/43/B) |
 | 20 | [Cupboards](http://codeforces.com/problemset/problem/248/A) |78| [Kitahara Haruki's Gift](https://codeforces.com/problemset/problem/433/A) |
 | 21 | [I_love_%username%](http://codeforces.com/problemset/problem/155/A) |79| [Comparing Strings](https://codeforces.com/problemset/problem/186/A) |
-| 22 | [Tram](http://codeforces.com/problemset/problem/116/A) |
-| 23 | [Helpful Maths](http://codeforces.com/problemset/problem/339/A) |
-| 24 | [Jzzhu and Sequences](https://codeforces.com/contest/450/problem/B) |
-| 25 | [Appleman and Card Game](https://codeforces.com/problemset/problem/462/B) |
-| 26 | [Is your horseshoe on the other hoof?](https://codeforces.com/problemset/problem/228/A) |
-| 27 | [Way Too Long Words](https://codeforces.com/problemset/problem/71/A) |
-| 28 | [Boy or Girl](https://codeforces.com/problemset/problem/236/A) |
-| 29 | [Amusing Joke](https://codeforces.com/problemset/problem/141/A) |
-| 30 | [Soft Drinking](https://codeforces.com/problemset/problem/151/A) |
-| 31 | [Sort the Array](https://codeforces.com/problemset/problem/451/B) |
+| 22 | [Tram](http://codeforces.com/problemset/problem/116/A) | 80| [Hungry Sequence](http://codeforces.com/problemset/problem/327/B) |
+| 23 | [Helpful Maths](http://codeforces.com/problemset/problem/339/A) | 81| [Big Segment](http://codeforces.com/problemset/problem/242/B) |
+| 24 | [Jzzhu and Sequences](https://codeforces.com/contest/450/problem/B) | 82| [Little Elephant and Bits](http://codeforces.com/problemset/problem/258/A) |
+| 25 | [Appleman and Card Game](https://codeforces.com/problemset/problem/462/B) | 83| [Yaroslav and Permutations](http://codeforces.com/problemset/problem/296/A) |
+| 26 | [Is your horseshoe on the other hoof?](https://codeforces.com/problemset/problem/228/A) | 84| [Fence](http://codeforces.com/problemset/problem/363/B) |
+| 27 | [Way Too Long Words](https://codeforces.com/problemset/problem/71/A) | 85| [TL](http://codeforces.com/problemset/problem/350/A) |
+| 28 | [Boy or Girl](https://codeforces.com/problemset/problem/236/A) | 86| [Increase and Decrease](http://codeforces.com/problemset/problem/246/B) |
+| 29 | [Amusing Joke](https://codeforces.com/problemset/problem/141/A) | 87| [Two Bags of Potatoes](http://codeforces.com/problemset/problem/239/A) |
+| 30 | [Soft Drinking](https://codeforces.com/problemset/problem/151/A) | 88| [Unlucky Ticket](http://codeforces.com/problemset/problem/160/B) |
+| 31 | [Sort the Array](https://codeforces.com/problemset/problem/451/B) | 89| [Boys and Girls](http://codeforces.com/problemset/problem/253/A) |
 | 32 | [Sereja and Bottles](https://codeforces.com/problemset/problem/315/A) |
 | 33 | [Adding Digits](https://codeforces.com/problemset/problem/260/A) |
 | 34 | [HQ9+](https://codeforces.com/problemset/problem/133/A) |

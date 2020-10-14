@@ -37,7 +37,7 @@
 | 29 | [Amusing Joke](https://codeforces.com/problemset/problem/141/A) | 87| [Two Bags of Potatoes](http://codeforces.com/problemset/problem/239/A) |
 | 30 | [Soft Drinking](https://codeforces.com/problemset/problem/151/A) | 88| [Unlucky Ticket](http://codeforces.com/problemset/problem/160/B) |
 | 31 | [Sort the Array](https://codeforces.com/problemset/problem/451/B) | 89| [Boys and Girls](http://codeforces.com/problemset/problem/253/A) |
-| 32 | [Sereja and Bottles](https://codeforces.com/problemset/problem/315/A) |
+| 32 | [Sereja and Bottles](https://codeforces.com/problemset/problem/315/A) | 90|[Easy Number Challenge](http://codeforces.com/problemset/problem/236/B) |
 | 33 | [Adding Digits](https://codeforces.com/problemset/problem/260/A) |
 | 34 | [HQ9+](https://codeforces.com/problemset/problem/133/A) |
 | 35 | [Petya and Strings](https://codeforces.com/problemset/problem/112/A) |

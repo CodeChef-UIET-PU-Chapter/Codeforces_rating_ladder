@@ -49,14 +49,14 @@
 | 41 | [Supercentral Point](https://codeforces.com/problemset/problem/165/A) |99|[T-primes](http://codeforces.com/problemset/problem/230/B) |
 | 42 | [Petr and Book](https://codeforces.com/problemset/problem/139/A) |100|[Sereja and Suffixes](http://codeforces.com/problemset/problem/368/B) |
 | 43 | [Parallelepiped](https://codeforces.com/problemset/problem/224/A) |101|[Flipping Game](http://codeforces.com/problemset/problem/327/A) |
-| 44 | [Reconnaissance 2](https://codeforces.com/problemset/problem/34/A) |
-| 45 | [Even Odds](https://codeforces.com/problemset/problem/318/A) |
-| 46 | [Little Elephant and Rozdil](https://codeforces.com/problemset/problem/205/A) |
-| 47 | [Hexadecimal's theorem](https://codeforces.com/problemset/problem/199/A) |
-| 48 | [Jeff and Digits](https://codeforces.com/problemset/problem/352/A) |
-| 49 | [Xenia and Ringroad](https://codeforces.com/problemset/problem/339/B) |
-| 50 | [Magic Numbers](https://codeforces.com/problemset/problem/320/A) |
-| 51 | [Cubes Sorting](https://codeforces.com/contest/1420/problem/A) |
+| 44 | [Reconnaissance 2](https://codeforces.com/problemset/problem/34/A) |102|[Rank List](http://codeforces.com/problemset/problem/166/A) |
+| 45 | [Even Odds](https://codeforces.com/problemset/problem/318/A) |103|[Free Cash](http://codeforces.com/problemset/problem/237/A) |
+| 46 | [Little Elephant and Rozdil](https://codeforces.com/problemset/problem/205/A) |104|[Polo the Penguin and Matrix](http://codeforces.com/problemset/problem/289/B) |
+| 47 | [Hexadecimal's theorem](https://codeforces.com/problemset/problem/199/A) |105|[Jzzhu and Sequences](http://codeforces.com/problemset/problem/450/B) |
+| 48 | [Jeff and Digits](https://codeforces.com/problemset/problem/352/A) |106|[Appleman and Card Game](http://codeforces.com/problemset/problem/462/B) |
+| 49 | [Xenia and Ringroad](https://codeforces.com/problemset/problem/339/B) |107|[Sort the Array](http://codeforces.com/problemset/problem/451/B) |
+| 50 | [Magic Numbers](https://codeforces.com/problemset/problem/320/A) |108|[Sereja and Bottles](http://codeforces.com/problemset/problem/315/A) |
+| 51 | [Cubes Sorting](https://codeforces.com/contest/1420/problem/A) |109|[Adding Digits](http://codeforces.com/problemset/problem/260/A) |
 | 52 | [Translation](https://codeforces.com/problemset/problem/41/A) |
 | 53 | [Football](https://codeforces.com/problemset/problem/43/A) |
 | 54 | [Bicycle Chain](https://codeforces.com/problemset/problem/215/A) |

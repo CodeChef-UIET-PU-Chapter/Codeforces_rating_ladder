@@ -91,3 +91,4 @@
 | 21 |[Little Pigs and Wolves](http://codeforces.com/problemset/problem/116/B) |
 | 22 |[Find Marble](http://codeforces.com/problemset/problem/285/B) |
 | 23 |[Roma and Changing Signs](http://codeforces.com/problemset/problem/262/B) |
+| 24 |[Dreamoon and WiFi](http://codeforces.com/problemset/problem/476/B) |

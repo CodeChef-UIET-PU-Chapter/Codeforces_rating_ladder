@@ -84,3 +84,10 @@
 | 14 |[Sum of Digits](https://codeforces.com/problemset/problem/102/B) |
 | 15 |[Next Test](https://codeforces.com/problemset/problem/27/A) |
 | 16 |[Laptops](https://codeforces.com/problemset/problem/456/A) |
+| 17 |[Pashmak and Garden](http://codeforces.com/problemset/problem/459/A) |
+| 18 |[Lucky Sum](http://codeforces.com/problemset/problem/121/A) |
+| 19 |[The Fibonacci Segment](http://codeforces.com/problemset/problem/365/B) |
+| 20 |[Difference Row](http://codeforces.com/problemset/problem/347/A) |
+| 21 |[Little Pigs and Wolves](http://codeforces.com/problemset/problem/116/B) |
+| 22 |[Find Marble](http://codeforces.com/problemset/problem/285/B) |
+| 23 |[Roma and Changing Signs](http://codeforces.com/problemset/problem/262/B) |

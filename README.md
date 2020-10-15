@@ -38,17 +38,17 @@
 | 30 | [Soft Drinking](https://codeforces.com/problemset/problem/151/A) | 88| [Unlucky Ticket](http://codeforces.com/problemset/problem/160/B) |
 | 31 | [Sort the Array](https://codeforces.com/problemset/problem/451/B) | 89| [Boys and Girls](http://codeforces.com/problemset/problem/253/A) |
 | 32 | [Sereja and Bottles](https://codeforces.com/problemset/problem/315/A) | 90|[Easy Number Challenge](http://codeforces.com/problemset/problem/236/B) |
-| 33 | [Adding Digits](https://codeforces.com/problemset/problem/260/A) | 90|[Pythagorean Theorem II](http://codeforces.com/problemset/problem/304/A) |
-| 34 | [HQ9+](https://codeforces.com/problemset/problem/133/A) |91|[Cards with Numbers](http://codeforces.com/problemset/problem/254/A) |
-| 35 | [Petya and Strings](https://codeforces.com/problemset/problem/112/A) |92|[Domino](http://codeforces.com/problemset/problem/353/A) |
-| 36 | [Team](https://codeforces.com/problemset/problem/231/A) |93|[Cinema Line](http://codeforces.com/problemset/problem/349/A) |
-| 37 | [Bit++](https://codeforces.com/problemset/problem/282/A) |94|[Cut Ribbon](http://codeforces.com/problemset/problem/189/A) |
-| 38 | [Effective Approach](https://codeforces.com/problemset/problem/227/B) |95|[IQ Test](http://codeforces.com/problemset/problem/287/A) |
-| 39 | [Dima and Friends](https://codeforces.com/problemset/problem/272/A) |96|[Building Permutation](http://codeforces.com/problemset/problem/285/C) |
-| 40 | [Jzzhu and Children](https://codeforces.com/problemset/problem/450/A) |97|[Kuriyama Mirai's Stones](http://codeforces.com/problemset/problem/433/B) |
-| 41 | [Supercentral Point](https://codeforces.com/problemset/problem/165/A) |98|[T-primes](http://codeforces.com/problemset/problem/230/B) |
-| 42 | [Petr and Book](https://codeforces.com/problemset/problem/139/A) |99|[Sereja and Suffixes](http://codeforces.com/problemset/problem/368/B) |
-| 43 | [Parallelepiped](https://codeforces.com/problemset/problem/224/A) | 100|[Flipping Game](http://codeforces.com/problemset/problem/327/A) |
+| 33 | [Adding Digits](https://codeforces.com/problemset/problem/260/A) | 91|[Pythagorean Theorem II](http://codeforces.com/problemset/problem/304/A) |
+| 34 | [HQ9+](https://codeforces.com/problemset/problem/133/A) |92|[Cards with Numbers](http://codeforces.com/problemset/problem/254/A) |
+| 35 | [Petya and Strings](https://codeforces.com/problemset/problem/112/A) |93|[Domino](http://codeforces.com/problemset/problem/353/A) |
+| 36 | [Team](https://codeforces.com/problemset/problem/231/A) |94|[Cinema Line](http://codeforces.com/problemset/problem/349/A) |
+| 37 | [Bit++](https://codeforces.com/problemset/problem/282/A) |95|[Cut Ribbon](http://codeforces.com/problemset/problem/189/A) |
+| 38 | [Effective Approach](https://codeforces.com/problemset/problem/227/B) |96|[IQ Test](http://codeforces.com/problemset/problem/287/A) |
+| 39 | [Dima and Friends](https://codeforces.com/problemset/problem/272/A) |97|[Building Permutation](http://codeforces.com/problemset/problem/285/C) |
+| 40 | [Jzzhu and Children](https://codeforces.com/problemset/problem/450/A) |98|[Kuriyama Mirai's Stones](http://codeforces.com/problemset/problem/433/B) |
+| 41 | [Supercentral Point](https://codeforces.com/problemset/problem/165/A) |99|[T-primes](http://codeforces.com/problemset/problem/230/B) |
+| 42 | [Petr and Book](https://codeforces.com/problemset/problem/139/A) |100|[Sereja and Suffixes](http://codeforces.com/problemset/problem/368/B) |
+| 43 | [Parallelepiped](https://codeforces.com/problemset/problem/224/A) |101|[Flipping Game](http://codeforces.com/problemset/problem/327/A) |
 | 44 | [Reconnaissance 2](https://codeforces.com/problemset/problem/34/A) |
 | 45 | [Even Odds](https://codeforces.com/problemset/problem/318/A) |
 | 46 | [Little Elephant and Rozdil](https://codeforces.com/problemset/problem/205/A) |

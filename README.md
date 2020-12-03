@@ -1,3 +1,6 @@
+#### If you find anything wrong email us 
+[![Gmail Badge](https://img.shields.io/badge/-codechefuietchapter@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:codechefuietchapter@gmail.com)](mailto:codechefuietchapter@gmail.com)
+
 # Codeforces_rating_ladder
 
 <img src="https://codeforces.com/predownloaded/ce/bb/cebb0750c8fc9da45a299daddd9ff9f17e77bffe.jpg" height=300>
